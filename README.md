@@ -55,7 +55,6 @@ This solution uses GSM + GPS modules along with sensors installed inside the hel
 ## 4. System Architecture
 ## System Architecture
 
-![Smart Helmet Architecture](assets/System_Architecture.png)
 
 
 ---
